@@ -23,6 +23,8 @@ label, input[type=submit]{
 #comentarios{
   margin-top: 20px;
 }
-p{
-
+#container{
+  padding: 10px;
+border: black;
+background-color: red;
 }
