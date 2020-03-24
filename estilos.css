@@ -1,0 +1,28 @@
+#colred{
+  background-color: red;
+  height: 20px;
+}
+
+#colyellow{
+  background-color: yellow;
+  height: 20px;
+}
+
+#colblue{
+  background-color: blue;
+  height: 20px;
+}
+
+#conteudo,#linhaprinc{
+  margin-top: 20px;
+  padding: 20px;
+}
+label, input[type=submit]{
+  display:block;
+}
+#comentarios{
+  margin-top: 20px;
+}
+p{
+
+}
