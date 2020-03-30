@@ -7,8 +7,9 @@
 label, input[type=submit]{
   display:block;
 }
-#comentarios{
+#mensagem{
   margin-top: 20px;
+
 }
 #container{
   padding: 10px;
@@ -17,9 +18,16 @@ background-color: red;
 }
 
 #navbar{
-  background-color: rgb(23, 119, 28);
+  background-color: #05a61d;
+  color: #20731d;
 }
 
 #navtext{
   color: hsl(0, 0%, 100%);
 } 
+#caixa{
+  background-color: #f2d16d;
+  color: #20731d;
+  font-weight: bold;
+}
+
